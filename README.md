@@ -3,6 +3,16 @@
 
 TachiyomiEH is a free and open source manga and hentai reader for Android and is based off of the [original Tachiyomi app](https://github.com/inorichi/tachiyomi).
 
+# THIS APP IS NO LONGER MAINTAINED
+
+## Check out these apps instead:
+
+- **TachiyomiAZ** (*much improved version of this app*): https://github.com/az4521/TachiyomiAZ
+- **TachiyomiSY** (*TachiyomiAZ but with additional enhancements and a new design*): https://github.com/jobobby04/TachiyomiSY
+
+<details>
+    <summary><b>Show old readme</b></summary>
+  
 # Download
 The latest version is: [![stable release](https://img.shields.io/github/release/NerdNumber9/TachiyomiEH.svg?maxAge=3600&label=)](https://github.com/NerdNumber9/TachiyomiEH/releases). Download it on our [releases page](https://github.com/NerdNumber9/TachiyomiEH/releases).
 
@@ -64,3 +74,5 @@ TachiyomiEH supports all of Tachiyomi's 100+ manga sources and also:
 ## Disclaimer
 
 The developer of this application does not have any affiliation with the content providers available.
+
+</details>
